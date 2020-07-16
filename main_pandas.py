@@ -22,6 +22,8 @@ name_from_choice = match[(choice_from_match-1)]
 (df.loc[name_from_choice,'proxy']) = 'True'
 
 print (df)
+test
+test
 
 
 #
