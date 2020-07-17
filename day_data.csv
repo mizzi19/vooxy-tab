@@ -1,1 +1,12 @@
 time,name,present,proxy,do/don't
+Thu Jul 16 14:29:58 2020,False,empty,empty
+Thu Jul 16 14:31:29 2020,s@a.com,empty,empty
+Thu Jul 16 14:32:19 2020,"Index(['e-mail', 'present', 'proxy', 'can trnsf'], dtype='object')",empty,empty
+Thu Jul 16 14:33:34 2020,"e-mail       s@a.com
+present        False
+proxy          False
+can trnsf      False
+Name: Sandro Mizzi, dtype: object",empty,empty
+Thu Jul 16 14:35:21 2020,<pandas.core.indexing._LocIndexer object at 0x0000028AC455F450>,empty,empty
+Thu Jul 16 14:36:52 2020,Sandro Mizzi,empty,empty
+Thu Jul 16 14:55:09 2020,Sandro Mizzi,False,False
