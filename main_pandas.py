@@ -53,3 +53,4 @@ clear()
 print (df.loc[name_from_choice])
 save_to_final()
 
+
