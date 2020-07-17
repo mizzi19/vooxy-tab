@@ -51,6 +51,7 @@ print (df.loc[name_from_choice])
 
 
 
+
 #
 # df.loc[1,'Name'] = 'a'
 # df.loc[3,'present'] = True
